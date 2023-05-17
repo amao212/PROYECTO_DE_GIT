@@ -1,6 +1,7 @@
 public class Animal {
     public Animal(){
-        System.out.println("soy animal");
+        System.out.println("soy un animal ");
+       
     }
-    fadfdsa
+
 }

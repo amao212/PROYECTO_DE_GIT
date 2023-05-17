@@ -1,6 +1,7 @@
 public class Persona {
     public Persona(){
-        System.out.println("soy persona");
-    }
-     kjfhadfhd
+        System.out.println("Soy una persona ");
+        
+    }    
+
 }
